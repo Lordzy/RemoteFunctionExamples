@@ -4,6 +4,7 @@
 
 #include <a_samp>
 
+main(){}
 //variable type defines. Used for GetPlayerVar
 #define VAR_TYPE_KILLS      0
 #define VAR_TYPE_DEATHS     1

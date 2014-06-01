@@ -2,7 +2,6 @@
 //Money and score stuffs are only server sided values so it won't do anything to
 // the game. This GM is just an example of Remote function calling.
 
-#define FILTERSCRIPT
 #include <a_samp>
 
 //variable type defines. Used for GetPlayerVar
